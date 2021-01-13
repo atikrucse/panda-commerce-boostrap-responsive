@@ -1,0 +1,13 @@
+.ctm-card{
+    border: 0px;
+}
+
+.ctm-card-footer{
+    border: 0;
+    background-color: white;
+}
+
+.ctm-carousel-bg .ctm-carousel-item{
+    background-color: #fceae8;
+    border-radius: 2em;
+}
